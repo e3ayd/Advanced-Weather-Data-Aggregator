@@ -20,7 +20,6 @@ pip install requests
 ## Usage
 
 ```To run the project, use the following command:
-
 python weather_aggregator.py
 ```
 
@@ -29,7 +28,6 @@ After running the script, you'll be prompted to enter a city name. If you press 
 ## Example Output
 
 ```Here's what the output might look like:
-
 Enter city name (default is London): New York
 Weather report for New York:
 Temperature: 21.5°C
