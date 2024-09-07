@@ -1,0 +1,7 @@
+### Explanation:
+
+- **Multiple APIs**: This project uses data from two different weather APIs to provide more reliable and aggregated information.
+- **Data Aggregation**: It combines data from both sources to give a better average for temperature and humidity.
+- **API Handling**: Demonstrates how to work with different APIs, handle API keys, and manage JSON responses.
+
+This project is more advanced than a typical single-source API project and can serve as a backend service or learning tool for those interested in working with multiple data sources in Python.
